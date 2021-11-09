@@ -1,0 +1,9 @@
+.head-container {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+.contact-head {
+  margin-left: 50px;
+  cursor: pointer;
+}

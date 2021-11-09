@@ -1,0 +1,11 @@
+.nav-link > a {
+  color: rgba(0, 0, 0, 0.5);
+  margin: 12px;
+}
+.nav-link > a:hover {
+  color: rgba(0, 0, 0, 0.9);
+  text-decoration: none;
+}
+.navbar-nav {
+  margin-left: 40px;
+}

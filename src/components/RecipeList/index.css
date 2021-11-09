@@ -1,0 +1,49 @@
+.recipe-list-container {
+}
+.list-group-item {
+  padding-left: 0;
+}
+.recipe-item {
+  display: flex;
+  /* flex-direction: column; */
+}
+.recipe-img > img {
+  height: 100px;
+  width: 100px;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+
+.recipe-name > h6 {
+  display: inline;
+  user-select: none;
+}
+
+.cal-info {
+  font-size: 12px;
+  color: rgb(145, 144, 144);
+}
+
+.meal-text {
+  text-transform: capitalize;
+}
+
+.label-badges {
+  margin-left: 10px;
+  user-select: none;
+}
+
+.li-data-components {
+}
+
+.no-data {
+  margin-top: 20px;
+  color: rgb(145, 144, 144);
+}
+h3.no-data {
+  margin-top: 0px;
+}
+
+.hover-hand:hover {
+  cursor: pointer;
+}
