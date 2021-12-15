@@ -30,10 +30,10 @@ export default function SurveyForm() {
           <Form.Control type="password" required placeholder="Password" />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicPassword">
-          <Form.Label>What is your preferred cuisine? (Optional)</Form.Label>
+          <Form.Label>What would you like to see on this site? (Optional)</Form.Label>
           <Form.Control
             type="input"
-            placeholder="Please enter your preferred cuisine..."
+            placeholder="What is your Favorite movie?"
           />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicCheckbox">
