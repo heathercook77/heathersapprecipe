@@ -44,10 +44,10 @@ export default function About() {
           id="mntl-sc-block_1-0-1"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          Simply Recipes is here to help you cook delicious meals with less
-          stress and more joy. We offer recipes and cooking advice{" "}
-          <em>for home cooks, by home cooks</em>. Helping create “kitchen wins”
-          is what we’re all about.
+          Visit this site to discuss the latest and greatest entertainment.
+       {" "}
+          <em>Meme Junkies.</em>. Entertainment blogging.
+          
         </p>
         <div
           id="mntl-sc-block_1-0-2"
@@ -57,13 +57,8 @@ export default function About() {
           id="mntl-sc-block_1-0-3"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          Simply Recipes was founded in 2003 by Elise Bauer as a home cooking
-          blog to record her favorite family recipes. Today, Simply Recipes has
-          grown into a trusted resource for home cooks with more than 3,000
-          tested recipes, guides, and meal plans, drawing over 15 million
-          readers each month from around the world. We’re supported by a diverse
-          group of recipe developers, food writers, recipe and product testers,
-          photographers, and other creative professionals.
+          In the early days of blogging, users would traditionally find blogs about pop culture and related subjects using blog search engines, including Technorati, Icerocket, Google Blog Search and others. Since the explosion of social media services such as Twitter, Facebook, Pinterest, Google+ and others, search has become less and less significant as a traffic draw. Now, getting a particular blog post or article to go "viral" on Facebook will have far greater significance than optimizing visibility in search engines.
+          Add in the volume of links submitted to aggregation sites and services like Reddit and StumbleUpon and it's easier than ever to find blogs and blog posts on any imaginable topic, no matter how niche.
         </p>
         <div
           id="mntl-sc-block_1-0-4"
@@ -84,11 +79,10 @@ export default function About() {
           id="mntl-sc-block_1-0-6"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          Elise Bauer was a busy Silicon Valley executive when she became sick
-          with a flu that wouldn’t go away in 2001. In 2003, Elise moved home
-          with her parents and lived with them for several years, recovering
-          from chronic fatigue and documenting her parents’ cooking on Simply
-          Recipes. (
+        Made up and designed by Ms. Cook during a launchCode Project.
+          
+         
+          
           <a
             href="https://www.simplyrecipes.com/behind-the-scenes-at-simply-recipes-5111324"
             data-component="link"
@@ -115,19 +109,19 @@ export default function About() {
           {" "}
           <span className="mntl-sc-block-heading__text">
             {" "}
-            Recipe Development &amp; Testing{" "}
+            Entertainment & blogging &amp; Testing{" "}
           </span>{" "}
         </h2>
         <p
           id="mntl-sc-block_1-0-9"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          Our recipes primarily use fresh, unprocessed ingredients but we also
-          believe there is a time and a place for canned, frozen, and other
-          prepared ingredients. We believe in a diet that includes a wide
-          variety of foods: real butter and cream, extra virgin olive oil, eggs,
-          lots of fruits and vegetables, and protein from meat, fish, beans, and
-          cheese. Plus cake for dessert.
+           This app is a work in progress, getting better as time goes on.
+          
+          
+          
+          
+          
         </p>
         <div
           id="mntl-sc-block_1-0-10"
@@ -137,8 +131,8 @@ export default function About() {
           id="mntl-sc-block_1-0-11"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          There are three things we think about when deciding if a recipe is
-          good enough to go on Simply Recipes:
+          
+          
         </p>
         <div
           id="mntl-sc-block_1-0-12"
@@ -148,8 +142,8 @@ export default function About() {
           id="mntl-sc-block_1-0-13"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          <strong>First, does it work?</strong> Recipes need to be easy to
-          follow and provide reliable results, every time.
+          <strong>Meme made simple</strong> Just have fun.
+          
         </p>
         <div
           id="mntl-sc-block_1-0-14"
@@ -159,8 +153,8 @@ export default function About() {
           id="mntl-sc-block_1-0-15"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          <strong>Second, is it delicious? </strong>Does the dish make us smile
-          inside and out? Do we want to eat the whole batch by ourselves?&nbsp;
+          <strong> </strong>
+          &nbsp;
         </p>
         <div
           id="mntl-sc-block_1-0-16"
@@ -170,8 +164,8 @@ export default function About() {
           id="mntl-sc-block_1-0-17"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          <strong>Third, is it worth the effort?</strong> Do we want to make it
-          again (and again and again)?
+          <strong></strong> 
+          
         </p>
         <div
           id="mntl-sc-block_1-0-18"
@@ -181,14 +175,7 @@ export default function About() {
           id="mntl-sc-block_1-0-19"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          To make sure each of these standards is met, we start by working with
-          expert recipe developers&nbsp; — people with the experience and
-          knowledge to not only develop a good recipe in their own kitchens, but
-          to make sure that recipe works in yours. Next, we thoroughly review
-          and edit every recipe in-house line by line. Finally, each new recipe
-          is run by our team of recipe testers working in home kitchens with the
-          same pots, pans, and tools that you use in yours. Only after all this
-          is the recipe shared on Simply Recipes.
+         Blogging. Memes. Entertainment news. Maybe more.
         </p>
         <div
           id="mntl-sc-block_1-0-20"
@@ -210,18 +197,14 @@ export default function About() {
           {" "}
           <span className="mntl-sc-block-heading__text">
             {" "}
-            Diversity &amp; Inclusion{" "}
+            {" "}
           </span>{" "}
         </h2>
         <p
           id="mntl-sc-block_1-0-24"
           className="comp mntl-sc-block mntl-sc-block-html"
         >
-          Everyone is welcome at the Simply Recipes table: people of all races,
-          religions, genders, sexual orientations, ages, backgrounds, and
-          abilities. We strive to be a resource for every home cook, and we
-          consciously work to make this inclusion felt in every part of the
-          site, from the individuals we hire to the recipes we share.
+          
         </p>
         <div
           id="mntl-sc-block_1-0-25"
@@ -233,10 +216,9 @@ export default function About() {
         >
           We’re not perfect, but we hope to get more right than we get wrong.{" "}
           <strong>
-            Below is a summary of our 2021 anti-racism commitments at Simply
-            Recipes. Read the full text{" "}
+            {" "}
             <a
-              href="https://www.simplyrecipes.com/our-anti-racism-pledge-5186469"
+              href="#"
               data-component="link"
               data-source="inlineLink"
               data-type="internalLink"
@@ -267,20 +249,16 @@ export default function About() {
           <li>Increase the diversity of our full-time and part-time teams.</li>
           <li>
             Invest at least 30% of our editorial monthly budget toward creating
-            content covering diverse world cuisines.
+            content covering diverse content.
           </li>
           <li>
-            By the end of 2021, at least 30% of our new recipe videos will
-            represent people of color.
+            
           </li>
           <li>
-            By the end of 2021, at least 25% of our monthly takeovers and
-            cooking demos on Instagram will feature BIPOC.
+            
           </li>
           <li>
-            By the end of 2021, we commit to forming a partnership with a
-            nonprofit organization that is aligned with our commitment to
-            fighting bias in the food space.
+           
           </li>
         </ul>
         <div
@@ -293,16 +271,16 @@ export default function About() {
         >
           <strong ref={contactRef}>
             <em>
-              If you have come across a recipe or an article with concerns you
+              If you have come across content or an article with concerns you
               feel need to be addressed, please reach out to us{" "}
               <a
-                href="mailto:contact@simplyrecipes.com"
+                href="mailto:contact@entertainmentweekly.com"
                 data-component="link"
                 data-source="inlineLink"
                 data-type="internalLink"
                 data-ordinal="1"
               >
-                contact@simplyrecipes.com
+                contact@entertainmentweekly.com
               </a>
               .
             </em>
