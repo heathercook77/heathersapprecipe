@@ -30,7 +30,7 @@ export default class NavbarComp extends Component {
                   <NavDropdown.Divider />
                   <NavDropdown.Item>
                     <Nav.Link>
-                      <Link to="/#">Dummy</Link>
+                      <Link to="/#">News</Link>
                     </Nav.Link>
                   </NavDropdown.Item>
                 </NavDropdown>
